@@ -79,7 +79,11 @@ Create a ```README.md``` to explain your project:
 
 ```git push```
 
-<h4>Example content for ```README.md:```</h4>
+And that is how you create a simple to-do list using Python and upload it to GitHub. Below is a sample of what coule be on the ```README.md```
+
+<h1></h1>
+
+Example of content cotained in the ```README.md```
 
 # Simple To-Do List in Python
 
