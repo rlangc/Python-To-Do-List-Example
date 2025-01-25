@@ -1,6 +1,29 @@
 <h1>A showcase of a to-do list using Python</h1>
 
+This project is a beginner-friendly, command-line To-Do List application built using Python. It allows users to easily manage their tasks by adding, viewing, and removing them from a list. The app runs in a continuous loop until the user chooses to exit, providing an intuitive way to track daily activities.
+
+<h2>Key Features</h2>
+
+- 📋 Add Tasks: Users can input new tasks to be added to their to-do list.
+- 👀 View Tasks: Display all tasks currently in the list.
+- 🗑️ Remove Tasks: Delete completed or unnecessary tasks.
+- 🚪 Exit Option: Allows users to close the app gracefully.
+
+<h2>Technologies Used:</h2>
+
+- Python
+
+<h2>How to Run the Project</h2>
+
+- Download or clone the repository
+- Open a terminal/command prompt in the project directory
+- Run the script using:
+```python todo_list.py```
+- Follow the on-screen prompts to manage your tasks.
+
 <h2>How to use this example</h2>
+
+Below you will find a step-by-step guide to re-create this type of project on your own. 
 
 <h3>Step 1: Install Git (if not already installed)</h3>
 
